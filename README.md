@@ -11,15 +11,17 @@ The quotes ~~dishes~~ display would be provided via API. Each swipe would then P
 
 _PLEASE NOTE: It is important that this app be developed with React Native because we want to deploy to our student group for testing on either iOS or Android devices._
 
-User register:
-![alt text](https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-register.png "User register")
+|User Action|View|Priority|
+|-|-|-|
+|User register|1|Medium|
+|User login|2|Medium|
+|Quote displayed|3|Critical|
+|Quote displayed with comments|4|Critical|
 
-User login: 
+![Registration|150x300](https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-register.png  "User register"){ width=50% }
+
 ![alt text](https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-login.png "User login")
 
-Quote displayed: 
 ![alt text](https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-home-quotedisplayed.png "Quote displayed")
 
-Quote displayed with comments: 
 ![alt text](https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-home-quotedisplayed-withcomments.png "Quotes displayed with comments")
-
