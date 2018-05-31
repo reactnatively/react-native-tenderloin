@@ -13,15 +13,7 @@ _PLEASE NOTE: It is important that this app be developed with React Native becau
 
 |User Action|View|Priority|
 |-|-|-|
-|User register|1|Medium|
-|User login|2|Medium|
-|Quote displayed|3|Critical|
-|Quote displayed with comments|4|Critical|
-
-![Registration|150x300](https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-register.png  "User register"){ width=50% }
-
-![alt text](https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-login.png "User login")
-
-![alt text](https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-home-quotedisplayed.png "Quote displayed")
-
-![alt text](https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-home-quotedisplayed-withcomments.png "Quotes displayed with comments")
+|User register|<img src="https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-register.png" width="150">|Medium|
+|User login|<img src="https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-login.png" width="150">|Medium|
+|Quote displayed|<img src="https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-home-quotedisplayed.png" width="150">|Critical|
+|Quote displayed with comments|<img src="https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-home-quotedisplayed-withcomments.png" width="150">|Critical|
