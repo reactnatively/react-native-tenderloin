@@ -19,3 +19,7 @@ _PLEASE NOTE: It is important that this app be developed with React Native becau
 |User login|<img src="https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-login.png" width="150">|Medium|
 |Quote displayed|<img src="https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-home-quotedisplayed.png" width="150">|Critical|
 |Quote displayed with comments|<img src="https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-home-quotedisplayed-withcomments.png" width="150">|Critical|
+
+## React Natively API
+* URL: http://api.reactnatively.venny.co/v1/
+* endpoint: /quotes
