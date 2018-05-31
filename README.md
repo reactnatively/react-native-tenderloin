@@ -1,5 +1,7 @@
 # React Natively
 
+Projects that use React Native to tell the story of humanity. Here we'll capture how humans interact with each other using technology.
+
 ## Tenderloin
 
 We're creating a simple app to allow iOS &amp; Android users the ability to swipe through different quotes and tell us if they have heard it before.
