@@ -28,7 +28,7 @@ _PLEASE NOTE: It is important that this app be developed with React Native becau
 |-|-|-|
 |token|NWU1MWQ4NzIwOTY0OGNjMTNkZWI1MjNiMjA1ZA==|Token required for access to the API|
 |text|If you are not willing to risk the usual you will have to settle for the ordinary.|Quote  (1111 Characters|
-|lines|<SVG>|Any SVG paths (1111 Characters)|
+|lines|_SVG_|Any SVG paths (1111 Characters)|
 |image|directory/subdirectory/image.file|Image file associated with the quote (255 Characters)|
 |audio|directory/subdirectory/audio.file|Audio file originated with the quote (255 Characters)|
 |longitude|32.7820148|Longitude of user when post occurs|
