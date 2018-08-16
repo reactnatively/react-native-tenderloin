@@ -5,11 +5,12 @@ Projects that use React Native to tell the story of humanity. Here we'll capture
 ## Tenderloin
 
 We're creating a simple app to allow iOS &amp; Android users the ability to swipe through different quotes and tell us if they have heard it before.
-* Users would swipe left if they've never heard of the quote ~~dish~~.
-* Users would swipe right if they have heard of the quote ~~dish~~.
+* Users would swipe left if they've never heard of the quote.
+* Users would swipe right if they have heard of the quote.
+* Users advance through the provided list of quotes by swiping.
 * Seperately, users may also choose to add a comment.
 
-The quotes ~~dishes~~ display would be provided via API. Each swipe would then POST data to the API provided.
+The quotes displayed would be provided via the API below. Each swipe would then POST data to the API provided in form of "yes" or "no" string.
 
 _PLEASE NOTE: It is important that this app be developed with React Native because we want to deploy to our student group for testing on either iOS or Android devices._
 
