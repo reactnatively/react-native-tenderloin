@@ -16,7 +16,7 @@ _PLEASE NOTE: It is important that this app be developed with React Native becau
 
 |User Action|View|Priority|Notes|
 |-|-|-|-|
-|User register|<img src="https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-splash.png" width="150">|Medium|Should be considered the splash screen.|
+|Splash Screen|<img src="https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-splash.png" width="150">|Medium|Should be considered the splash screen.|
 |User register|<img src="https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-register.png" width="150">|Medium|Should only display when register button is click from login screen.|
 |User login|<img src="https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-login.png" width="150">|Medium|Should appear if user is not currently logged in.|
 |Quote displayed|<img src="https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-home-quotedisplayed.png" width="150">|Critical|Should be considered the home screen for logged in users. If not logged in the user should see login screen.|
