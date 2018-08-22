@@ -14,12 +14,13 @@ The quotes displayed would be provided via the API below. Each swipe would then 
 
 _PLEASE NOTE: It is important that this app be developed with React Native because we want to deploy to our student group for testing on either iOS or Android devices._
 
-|User Action|View|Priority|
-|-|-|-|
-|User register|<img src="https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-register.png" width="150">|Medium|
-|User login|<img src="https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-login.png" width="150">|Medium|
-|Quote displayed|<img src="https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-home-quotedisplayed.png" width="150">|Critical|
-|Quote displayed with comments|<img src="https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-home-quotedisplayed-withcomments.png" width="150">|Critical|
+|User Action|View|Priority|Notes|
+|-|-|-|-|
+|User register|<img src="https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-splash.png" width="150">|Medium|Should be considered the splash screen.|
+|User register|<img src="https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-register.png" width="150">|Medium|Should only display when register button is click from login screen.|
+|User login|<img src="https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-login.png" width="150">|Medium|Should appear if user is not currently logged in.|
+|Quote displayed|<img src="https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-home-quotedisplayed.png" width="150">|Critical|Should be considered the home screen for logged in users. If not logged in the user should see login screen.|
+|Quote displayed with comments|<img src="https://github.com/reactnatively/react-tenderloin/blob/master/tenderloin-home-quotedisplayed-withcomments.png" width="150">|Critical|Should be visible if user is actively adding or reviewing comments.|
 
 ## React Natively API
 * URL: http://api.reactnatively.venny.co/v1/
